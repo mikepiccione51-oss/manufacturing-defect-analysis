@@ -30,7 +30,7 @@ Developed a Power BI dashboard to:
 - Enabled data-driven process improvement
 
 ## Dashboard Preview
-![Dashboard](Screenshot%202026-04-24%20140213.png)
+![Dashboard](dashboard-preview.png)
 
 ## Files Included
 - `Defect-dashboard.pbix` → Power BI dashboard
